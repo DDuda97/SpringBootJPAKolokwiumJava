@@ -1,0 +1,16 @@
+package com.example.duda.kolokwiumduda;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class KolokwiumDudaController {
+/*
+    @RequestMapping
+    public String helloWorld(){
+        return "Hello World from Spring Boot";
+    }
+
+ */
+
+}
